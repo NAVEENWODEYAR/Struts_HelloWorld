@@ -9,4 +9,9 @@
     <welcome-file>default.jsp</welcome-file>
     <welcome-file>default.htm</welcome-file>
   </welcome-file-list>
+  
+  <servlet>
+  	<servlet-name>ActionServlet</servlet-name>
+  	<servlet-class>or.apache.struts.action.ActionServlet</servlet-class>
+  </servlet>
 </web-app>
