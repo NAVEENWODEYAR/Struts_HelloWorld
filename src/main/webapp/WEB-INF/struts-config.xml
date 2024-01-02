@@ -9,5 +9,6 @@
                 type="com.test.HelloWorld" 
                 name="testForm" 
                 scope="request" />
+                <forword name="hello" path="/WEB-INF/views/HelloWorld.jsp"></forword>
     </action-mappings>
 </struts-config>
