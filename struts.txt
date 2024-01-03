@@ -1,1 +1,2 @@
 Struts framework,
+Please check the present software versions, accordingly set up the system.,
