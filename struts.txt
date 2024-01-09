@@ -1,2 +1,3 @@
 Struts framework,
 Please check the present software versions, accordingly set up the system.,
+Struts 1.x deprecated 2018 and has no community support and developers are advised to migrate towards other frameworks., 
