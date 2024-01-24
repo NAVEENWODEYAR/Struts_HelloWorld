@@ -15,4 +15,13 @@
 		<input type="text" name="password" placeholder="Password" autocomplete="off"/>
 	</form>
 </body>
+<script>
+    document.addEventListener("DOMContentLoaded", function() {
+        var form = document.getElementById('registerFrom');
+            if(form){
+                form.querySelectorAll('input,textarea')
+                    .forEach(input=>input.setAttribute('autocomplete','off'));
+            }
+    });
+</script>
 </html>
