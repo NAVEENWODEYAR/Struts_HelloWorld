@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta charset="ISO-8859-1">
-<title>Insert title here</title>
+<title>Registration Page</title>
 </head>
 <body>
 	<h2>Jakarta Srver Faces</h2>
