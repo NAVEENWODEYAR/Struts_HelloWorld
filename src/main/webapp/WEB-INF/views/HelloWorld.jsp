@@ -20,6 +20,7 @@
 	</form>
 </body>
 <script>
+	// script to disable the autofill mechanism in the form.,
     document.addEventListener("DOMContentLoaded", function() {
         var form = document.getElementById('registerFrom');
             if(form){
@@ -28,5 +29,6 @@
             }
     });
 </script>
+<script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>    
 </body>
 </html>
