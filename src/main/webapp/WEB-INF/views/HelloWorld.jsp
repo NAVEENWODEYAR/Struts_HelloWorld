@@ -21,7 +21,7 @@
 </body>
 <script>
 	// script to disable the autofill mechanism in the form.,
-    document.addEventListener("DOMContentLoaded", function() {
+    document.addEventListener("DOMContentLoaded", function() disableAutofill {
         var form = document.getElementById('registerFrom');
             if(form){
                 form.querySelectorAll('input,textarea')
@@ -29,6 +29,5 @@
             }
     });
 </script>
-<script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>    
 </body>
 </html>
