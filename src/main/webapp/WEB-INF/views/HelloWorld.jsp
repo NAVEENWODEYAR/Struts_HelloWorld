@@ -11,10 +11,10 @@
 	<div align="center">
 		<h1> Hello World!</h1>
 	</div>
-	<h2>Jakarta Srver Faces</h2>
+	<h2>Jakarta Srver Pages</h2>
 	<form action="post" autocomplete="off">
 		<label> Enter your name </label>
-		<input type="text" name="name" placeholder="FirstName" autocomplete="off"/><br><br>
+		<input type="text" name="name" placeholder="FirstName" autocomplete="new-password"/><br><br>
 		<label> Enter your password </label>
 		<input type="text" name="password" placeholder="Password" autocomplete="new-password"/>
 	</form>
