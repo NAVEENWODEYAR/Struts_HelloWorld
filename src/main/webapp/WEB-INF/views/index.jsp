@@ -8,7 +8,10 @@
 </head>
 <body>
 	<div>
-		<h1>Index</h1>
+		<form action="off" method="post">
+			<label for="">Name</label><br>
+			<input type="text" name="name" id="i1" autocomplete="fhkajdsh" />
+		</form>
 	</div>
 </body>
 
