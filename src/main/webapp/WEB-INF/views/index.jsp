@@ -9,8 +9,11 @@
 <body>
 	<div>
 		<form action="off" method="post">
-			<label for="">Name</label><br>
-			<input type="text" name="name" id="i1" autocomplete="fhkajdsh" />
+			<label for="name">Name</label>
+			<input type="text" name="name" id="i1" autocomplete="fhkajdsh" /><br>
+			<label for="email">Mail</label>
+			<input type="email" name="email" id="i2" autocomplete="jajds" /><br>
+			
 		</form>
 	</div>
 </body>
